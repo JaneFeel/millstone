@@ -1,5 +1,11 @@
 # CARTO's CHANGELOG
 
+## v0.6.17-carto.2
+Released 2018-10-26
+
+- Add package-lock.json
+
+
 ## v0.6.17-carto.1
 Released 2018-10-26
 
