@@ -1,5 +1,10 @@
 # CARTO's CHANGELOG
 
+## v0.6.17-carto.3
+Released 20XX-XX-XX
+
+- Remove unused sqlite3 dependency.
+
 ## v0.6.17-carto.2
 Released 2018-10-26
 
