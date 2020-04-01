@@ -4,6 +4,11 @@ node_js:
   - "6"
   - "8"
   - "10"
+  - "12"
+
+matrix:
+  allow_failures:
+    - node_js: "12"
 
 addons:
   apt:
