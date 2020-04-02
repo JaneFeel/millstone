@@ -1,2 +1,21 @@
 .DS_Store
 node_modules
+
+# Test data
+test/cache/layers/absolute-json.json
+test/cache/layers/absolute-shp/
+test/cache/layers/polygons.json
+test/cache/layers/stations/
+test/cache/layers/zip-no-ext/
+test/corrupt-zip/layers/
+test/data/.ne_10m_admin_0_boundary_lines_disputed_areas.zip
+test/data/ne_10m_admin_0_boundary_lines_disputed_areas.dbf
+test/data/ne_10m_admin_0_boundary_lines_disputed_areas.html
+test/data/ne_10m_admin_0_boundary_lines_disputed_areas.prj
+test/data/ne_10m_admin_0_boundary_lines_disputed_areas.shp
+test/data/ne_10m_admin_0_boundary_lines_disputed_areas.shx
+test/data/ne_10m_admin_0_boundary_lines_disputed_areas.txt
+test/macosx-zipped/layers/
+test/multi-shape-zip/layers/
+test/zipped-json/layers/
+test/tmp
