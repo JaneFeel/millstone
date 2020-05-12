@@ -4,7 +4,7 @@
 Released XXXX-XX-XX
 
 - Replace zipfile with adm-zip.
-- Stop autodetecting "srs" for file datasources, set WGS84 as default srs
+- Stop autodetecting SRS for file datasources, set WGS84 as default value
 - Add support for Node.js 12
 - Drop support for Node.js < 12
 
