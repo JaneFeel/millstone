@@ -1,7 +1,7 @@
 # CARTO's CHANGELOG
 
 ## v0.6.17-carto.4
-Released XXXX-XX-XX
+Released 2020-05-12
 
 - Replace zipfile with adm-zip.
 - Stop autodetecting SRS for file datasources, set WGS84 as default value
