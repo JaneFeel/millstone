@@ -4,7 +4,7 @@
 Released XXXX-XX-XX
 
 - Replace zipfile with adm-zip.
-
+- Remove support for `vtr` files as datasource.
 
 ## v0.6.17-carto.3
 Released 2019-07-15
