@@ -5,6 +5,8 @@ Released XXXX-XX-XX
 
 - Replace zipfile with adm-zip.
 - Stop autodetecting "srs" for file datasources.
+- Add support for Node.js 12
+- Drop support for Node.js < 12
 
 ## v0.6.17-carto.3
 Released 2019-07-15
